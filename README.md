@@ -1,7 +1,7 @@
 FList is My Task app for IOS
 Screenshots:
 Main Page
-![IMG_0826](https://github.com/sairex53/Reminder-App/assets/113220566/68094a45-39e6-48d4-be66-7cb0d1a0f95
+![IMG_0826](https://github.com/sairex53/Reminder-App/assets/113220566/68094a45-39e6-48d4-be66-7cb0d1a0f95)
 Create New Task
 ![IMG_0827](https://github.com/sairex53/Reminder-App/assets/113220566/075b6e10-e00d-4540-b0a4-2357c0bc9c34)
 Edit Task
